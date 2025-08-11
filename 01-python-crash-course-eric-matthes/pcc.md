@@ -1,14 +1,13 @@
 # All the sections of the book
-## PART I: BASICS (chapter 1 to 11)
 
-- **Chapter 1:** Getting Started  
-- **Chapter 2:** Variables and Simple Data Types  
-- **Chapter 3:** Introducing Lists  
-- **Chapter 4:** Working with Lists  
-- **Chapter 5:** if Statements  
-- **Chapter 6:** Dictionaries  
-- **Chapter 7:** User Input and while Loops  
-- **Chapter 8:** Functions  
-- **Chapter 9:** Classes  
-- **Chapter 10:** Files and Exceptions  
-- **Chapter 11:** Testing Your Code  
+python-learning-path/
+- [01-python-crash-course-eric-matthes](01-python-crash-course-eric-matthes/)
+  - [pcc.md](01-python-crash-course-eric-matthes/pcc.md)
+  - [chapter-1 (Getting started)](01-python-crash-course-eric-matthes/chapter-1%20(Getting%20started)/)
+    - [example.py](01-python-crash-course-eric-matthes/chapter-1%20(Getting%20started)/example.py)
+    - [notes.md](01-python-crash-course-eric-matthes/chapter-1%20(Getting%20started)/notes.md)
+  - [chapter-2 (Variables and simple data types)](01-python-crash-course-eric-matthes/chapter-2%20(Variables%20and%20simple%20data%20types)/)
+    - [example.py](01-python-crash-course-eric-matthes/chapter-2%20(Variables%20and%20simple%20data%20types)/example.py)
+    - [notes.md](01-python-crash-course-eric-matthes/chapter-2%20(Variables%20and%20simple%20data%20types)/notes.md)
+
+
