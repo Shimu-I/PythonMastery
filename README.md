@@ -170,27 +170,11 @@ To track my reading and learning progress, this repository uses a structured fol
 
 ### Folder Structure
 
-```text
-python-learning-path/
-├── 01-python-crash-course-eric-matthes/
-│   ├── pcc.md
-│   ├── chapter-1 (Getting started)/
-│   │   ├── example.py
-│   │   └── notes.md
-│   ├── chapter-2 (Variables and simple data types)/
-│   │   ├── example.py
-│   │   └── notes.md
-│   └── ...
-├── 02-automate-the-boring-stuff-al-sweigart/
-│   ├── abs.md
-│   ├── section-1/
-│   │   ├── script.py
-│   │   └── notes.md
-│   └── ...
-├── ...
-└── README.md  (main file)
+PythonMastery/
+- [01-python-crash-course-eric-matthes](01-python-crash-course-eric-matthes/)
+- [02-automate-the-boring-stuff-al-sweigart](02-automate-the-boring-stuff-al-sweigart/)
+  
 
-```
 
 ### Tips for Success
 - **Read Sequentially**: Follow the book order to build skills progressively.
