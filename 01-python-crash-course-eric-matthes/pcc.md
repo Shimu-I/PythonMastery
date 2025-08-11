@@ -1,7 +1,6 @@
-# All the sections of the book
-PythonMastery/
-- [01-python-crash-course-eric-matthes](.)
-  - [pcc.md](pcc.md)
+# Python Crash Course 3rd Edition
+## All the sections of the book
+
   - [Chapter 1 - Getting Started](chapter-1%20(Getting%20started)/)
     - [example.py](chapter-1%20(Getting%20started)/example.py)
     - [notes.md](chapter-1%20(Getting%20started)/notes.md)
