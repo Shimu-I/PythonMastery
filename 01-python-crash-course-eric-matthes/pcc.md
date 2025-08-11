@@ -1,6 +1,6 @@
 # All the sections of the book
 
-python-learning-path/
+PythonMastery/
 - [01-python-crash-course-eric-matthes](01-python-crash-course-eric-matthes/)
   - [pcc.md](01-python-crash-course-eric-matthes/pcc.md)
   - [chapter-1 (Getting started)](01-python-crash-course-eric-matthes/chapter-1%20(Getting%20started)/)
