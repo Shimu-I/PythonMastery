@@ -3,7 +3,13 @@
 A comprehensive guide to the best books for learning Python development, including why I should read them, what I will gain, author info, online availability, and recommended reading order.
 
 ---
+### Folder Structure
 
+PythonMastery/
+- [01-python-crash-course-eric-matthes](01-python-crash-course-eric-matthes/)
+- [02-automate-the-boring-stuff-al-sweigart](02-automate-the-boring-stuff-al-sweigart/)
+
+---
 ## Book List & Details
 
 ### 1. Python Crash Course  
@@ -167,13 +173,6 @@ A comprehensive guide to the best books for learning Python development, includi
 ## Tracking My Progress
 
 To track my reading and learning progress, this repository uses a structured folder system. Each book has its own folder, and within each folder, I maintain a `README.md` file to log my progress by chapter or section, along with key takeaways or projects.
-
-### Folder Structure
-
-PythonMastery/
-- [01-python-crash-course-eric-matthes](01-python-crash-course-eric-matthes/)
-- [02-automate-the-boring-stuff-al-sweigart](02-automate-the-boring-stuff-al-sweigart/)
-  
 
 
 ### Tips for Success
