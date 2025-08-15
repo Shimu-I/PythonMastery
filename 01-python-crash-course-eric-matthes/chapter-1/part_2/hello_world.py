@@ -25,22 +25,45 @@
 # last_name = "lovelace"
 # full_name = f"{first_name} {last_name}"
 # print(full_name)
+
 # print(f"Hello, {full_name.title()}")
 # message = f"Hello {full_name.title()}!"
 # print(message)
+
 
 #----Adding Whitespace to Strings with Tabs or Newlines
 # # add tab
 # print("python")
 # print("\tpython")
+
 # # new line
 # print("Language: python \n javascriplt \n java")
 # print("Language: python \n\t javascriplt \n\t java")
 
-#----Stripping Whitespace
-favorite_language = 'python '
-print(favorite_language)
 
-favorite_language = "python "
-print(favorite_language.rstrip())
+#----Stripping Whitespace
+# favorite_language = 'python1 '
+# print(favorite_language)
+
+# favorite_language = "python2 "
+# print(favorite_language.rstrip())
+
+# favorite_language = "python3 "
+# favorite_language = favorite_language.rstrip()
+# print(favorite_language.rstrip())
+
+# favorite_language = "  python4 "
+# print(favorite_language.lstrip())
+
+# favorite_language = "  python5  "
+# print(favorite_language.strip())
+
+
+#----Removing Prefixes
+# nostarch_url = 'https://nostarch.com'
+# nostarch_url = nostarch_url.removeprefix('https://')
+# print(nostarch_url)
+
+
+#----Avoiding Syntax Errors with Strings
 
