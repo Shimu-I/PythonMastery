@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Shimu-I/PythonMastery)
+![GitHub last commit](https://img.shields.io/github/last-commit/shimu-i/PythonMastery)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shimu-i/PythonMastery)
+
+
 # Python Developer Learning Path
 
 A comprehensive guide to the best books for learning Python development, including why I should read them, what I will gain, author info, online availability, and recommended reading order.
