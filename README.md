@@ -59,6 +59,19 @@ Learning through multiple YouTube resources to master Python from **basics to ad
 
 ---
 
+## 7. Python Deep Learning (TensorFlow & Keras)
+
+**Course 1:** [TensorFlow 2.0 Complete Course – Python Neural Networks for Beginners Tutorial](https://youtu.be/tPYj3fFJGjk?si=jeLJamxTiuM3u1RX)
+
+**Course 2:** [Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial](https://youtu.be/VtRLrQ3Ev-U?si=aSDnVbYwmQjKZnB4)
+
+**Course 3:** [Keras with TensorFlow Course – Python Deep Learning and Neural Networks for Beginners Tutorial](https://youtu.be/qFJeN9V1ZsI?si=FACbsR-sX77J7HjD)
+
+*(Covers neural networks, TensorFlow 2.0, and Keras for building deep learning models)*
+
+
+
+
 ## Study Record
 
 | Day no and date | Topic Covered | Time spent | YouTube Timestamp | Exercises Done | Satisfaction Level |
