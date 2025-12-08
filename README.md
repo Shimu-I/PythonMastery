@@ -80,3 +80,4 @@ Learning through multiple YouTube resources to master Python from **basics to ad
 | 8 dec, 2025| Getting to know | 1h 30min | N/A | N/A | good |
 
 ✅ *Continuing to document my Python learning journey step by step.*
+Google doc link: https://docs.google.com/document/d/1J771T7q3s3AdgrNXZkIs5WB4DnarU6VmJAXr13uEbkA/edit?usp=sharing
