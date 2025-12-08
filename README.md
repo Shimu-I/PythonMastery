@@ -76,7 +76,7 @@ Learning through multiple YouTube resources to master Python from **basics to ad
 
 | Day no and date | Topic Covered | Time spent | YouTube Timestamp | Exercises Done | Satisfaction Level |
 | --- | --- | --- | --- | --- | --- |
-| [Code with Harry](https://youtu.be/UrsmFxEIp5k?si=u0ZVx3YvlCfmU4BE) |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Automate the boring stuff with python by Al Sweigart |
+| 8 dec, 2025| Getting to know | 1h 30min | N/A | N/A | good |
 
 ✅ *Continuing to document my Python learning journey step by step.*
