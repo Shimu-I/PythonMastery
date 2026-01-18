@@ -10,7 +10,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 ---
 
 
-
+ 
 ## Study Record
 
 | Day no and date | Topic Covered | Time spent | YouTube Timestamp | Exercises Done | Satisfaction Level |
@@ -19,6 +19,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Day-1 -- 8 dec, 2025 | chapter - 1 (Python Basics) | 1h 30min | N/A | book exercises | good |
 | Day-2 -- 12 dec, 2025 | chapter - 1 (Python Basics) | 2h 20min | N/A | c-1-practice question 1 to 10 | good |
 | Day-3 -- 14 dec, 2025 | chapter - 2 (if-else and Flow Control) | 1h | N/A | book exercises | good |
+| Day-4 -- (11 jan to 17 jan), 2026 | chapter - 2 (if-else and Flow Control) | 2h | N/A | book exercise + c-2-practice questions 1 to 9 | good |
 
 
 ✅ *Continuing to document my Python learning journey step by step.*
