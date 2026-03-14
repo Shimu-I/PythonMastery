@@ -25,6 +25,8 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Day-4 -- (11 jan to 17 jan), 2026 | chapter - 2 (if-else and Flow Control) | 2h | N/A | book exercise + c-2-practice questions 1 to 9 | good |
 | Day-5 -- 12 Mar, 2026 | chapter - 3 (Loops) | 2h 15min | N/A | book exercises | good |
 | Day-6 -- 13 Mar, 2026 | chapter - 3 (Loops) | 1h 30min | N/A | book exercises + c-3 Practice questions 1 to 5 | good |
+| Day-7 -- 14 Mar, 2026 | chapter - 4 (Functions) & chapter 5 - (Debugging) | 6h 23min | N/A | book exercises + c-4 Practice questions 1 to 16 & c-5 Practice questions 1 to 13 | good |
+
 
 
 
