@@ -1,0 +1,20 @@
+2026-03-14 17:25:17,040 - DEBUG - Start of program
+2026-03-14 17:25:17,040 - DEBUG - Start of factorial(5)
+2026-03-14 17:25:17,040 - DEBUG - i is 1, total is 1
+2026-03-14 17:25:17,040 - DEBUG - i is 2, total is 2
+2026-03-14 17:25:17,041 - DEBUG - i is 3, total is 6
+2026-03-14 17:25:17,041 - DEBUG - i is 4, total is 24
+2026-03-14 17:25:17,041 - DEBUG - i is 5, total is 120
+2026-03-14 17:25:17,041 - DEBUG - End of factorial(5)
+2026-03-14 17:25:17,041 - DEBUG - End of program
+2026-03-14 17:37:00,374 - DEBUG - Some minor code and debugging details.
+2026-03-14 17:37:00,375 - INFO - An event happened.
+2026-03-14 17:37:00,375 - WARNING - Someting could go wrong
+2026-03-14 17:37:00,375 - ERROR - An error has occured.
+2026-03-14 17:37:00,376 - CRITICAL - The program is unable to recover and will now terminated!
+2026-03-14 17:37:46,725 - DEBUG - Some minor code and debugging details.
+2026-03-14 17:37:46,725 - INFO - An event happened.
+2026-03-14 17:37:46,726 - WARNING - Someting could go wrong.
+2026-03-14 17:37:46,726 - ERROR - An error has occured.
+2026-03-14 17:37:46,726 - CRITICAL - The program is unable to recover and will now terminated!
+2026-03-14 17:40:04,905 - CRITICAL - Critical error! Critical error!
