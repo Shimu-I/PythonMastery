@@ -58,4 +58,7 @@
 
 *(Covers neural networks, TensorFlow 2.0, and Keras for building deep learning models)*
 
+---
+## 8. Python Full Course for Beginners (13 Hours) – From Zero to Hero
 
+**Channel:** [Data with Baraa](https://youtu.be/Rq5gJVxz55Q?si=xlNMsiT-Gip6N9Q5)
