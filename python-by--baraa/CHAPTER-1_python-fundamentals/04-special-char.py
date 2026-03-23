@@ -1,0 +1,6 @@
+print("Hi \"Python\"")
+print('Hi "Python"')
+print("Path: C:\\User\\Shimu")
+print("Message1\n")
+print("Message2")
+print("Message1\tMessage2")

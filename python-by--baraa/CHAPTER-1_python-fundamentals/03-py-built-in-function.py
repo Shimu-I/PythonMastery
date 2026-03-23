@@ -1,0 +1,12 @@
+print("Hi Python")
+print('Hello Python')
+# print("Hi')
+print("------------------------")
+print("    LEARN PYTHON     ")
+print("------------------------")
+
+print("            _")
+print("          / _)")
+print("   .-^^^-/ /  ")
+print("__/       /   ")
+print("<__.|_|-|_|   ")
