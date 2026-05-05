@@ -5,20 +5,67 @@
 
 
 ## MULTIPLE INHERITANCE
+class Animal:
+    def __init__(self, name):
+        self.name = name
 
-class Prey:
+    def eat(self):
+        print(f"{self.name} is eating")
+
+    def sleep(self):
+        print(f"{self.name} is sleeping")
+
+class Prey(Animal):
     def flee(self):
-        print("This animal is fleeing")
+        print(f"{self.name} is fleeing")
 
-class Predator:
+class Predator(Animal):
     def hunt(self):
-        print("This animal is hunting")
+        print(f"{self.name} is hunting")
 
-class Rabbit:
+class Rabbit(Prey):
     pass
 
-class Hawk:
+class Hawk(Predator):
     pass
 
-class Fish:
+class Fish(Prey, Predator):
     pass
+
+rabbit = Rabbit("Bugs")
+hawk = Hawk("Tony")
+fish = Fish("Nemo")
+
+
+rabbit.flee()
+hawk.hunt()
+#hawk.flee()
+fish.flee()
+fish.hunt()
+
+
+print("=" * 30)
+
+rabbit.eat()
+rabbit.sleep()
+fish.eat()
+fish.sleep()
+
+print("=" * 30)
+
+rabbit.eat()
+rabbit.sleep()
+rabbit.flee()
+
+print("=" * 30)
+
+hawk.eat()
+hawk.sleep()
+hawk.hunt()
+
+print("=" * 30)
+
+fish.eat()
+fish.sleep()
+fish.flee()
+fish.hunt()
