@@ -11,15 +11,16 @@ Learning through multiple books and YouTube resources to master Python from **ba
 ## Currently, the book I am studying is
 
 1. [*Automate the Boring Stuff with Python* — Al Sweigart](https://automatetheboringstuff.com/)
-2. [*Python Full Course for Beginners (13 Hours) – From Zero to Hero* - Data with Baraa](https://youtu.be/Rq5gJVxz55Q)
+2. [*Python Full Course for Beginners (13 Hours) – From Zero to Hero* - Data with Bara](https://youtu.be/Rq5gJVxz55Q)
 3. [*Python Object Oriented Programming Full Course 🐍* - Bro Code](https://youtu.be/IbMDCwVm63M)
-4. [*Learn Pandas in 1 hour!*](https://youtu.be/VXtjG_GzO7Q)
-5. [*Learn NumPy in 1 hour! 🔢*](https://youtu.be/VXU4LSAQDSc)
-6. [*Learn Matplotlib in 1 hour! 📊*](https://youtu.be/c9vhHUGdav0)
-7. [*Seaborn Crash Course - Data Visualization in Python*](https://youtu.be/rLVCSmtoA7U)
-8. [*Django Full Crash Course - The Professional Python Web Framework*](https://youtu.be/u1GnZfDw5LU)
+4. [*Learn Pandas in 1 hour!* - Bro Code](https://youtu.be/VXtjG_GzO7Q)
+5. [*Learn NumPy in 1 hour! 🔢* - Bro Code](https://youtu.be/VXU4LSAQDSc)
+6. [*Learn Matplotlib in 1 hour! 📊* - Bro Code](https://youtu.be/c9vhHUGdav0)
+7. [*Seaborn Crash Course - Data Visualization in Python* - NeuralNine](https://youtu.be/rLVCSmtoA7U)
+8. [*Django Full Crash Course - The Professional Python Web Framework* -  NeuralNine](https://youtu.be/u1GnZfDw5LU)
 
- 
+ by NeuralNine
+
 ## Study Record
 
 | Day no and date | Topic Covered | Time spent | YouTube Timestamp | Exercises Done | Satisfaction Level |
