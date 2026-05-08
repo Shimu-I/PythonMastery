@@ -1,0 +1,15 @@
+ID,Product,Category,Price,Quantity,In_Stock
+101,Laptop,Electronics,1200,5,1
+102,Mouse,Electronics,25,15,1
+103,keyboard,Electronics,45,,1
+101,Laptop,Electronics,1200,5,1
+104,Desk Chair,Furniture,150,0,0
+104,Desk Chair,Furniture,150,0,0
+104,Desk Chair,Furniture,150,0,0
+104,Desk Chair,Furniture,150,0,0
+105,Monitor,ELECTRO-NICS,300,7,1
+106,Coffee Mug,Kitchen,12,20,1
+107,Toaster,Kitchen,,3,1
+107,Toaster,Kitchen,,3,1
+107,Toaster,Kitchen,,3,1
+107,Toaster,Kitchen,,3,1
