@@ -1,59 +1,49 @@
 # 🐍 Python YT resources
 
-This repository tracks my progress through various Python tutorials and specialized courses, ranging from core fundamentals to Data Science, Automation, and AI.
+## Feature Engineering 
 
----
+[Feature Engineering Techniques For Machine Learning in Python](https://youtu.be/GduT2ZCc26E)
 
-## ✅ Completed
+[What is Feature Engineering | Day 23 | 100 Days of Machine Learning](https://youtu.be/sluoVhT0ehg)
+[]()
+[]()
+[]()
 
-### 1. Python Full Course for Beginners (13 Hours) – From Zero to Hero
-* **Channel:** [Data with Baraa](https://youtu.be/Rq5gJVxz55Q?si=xlNMsiT-Gip6N9Q5)
-* **Status:** 100% Complete
-* **Focus:** Core Python syntax, programming logic, and foundational concepts.
+## PyTorch
 
----
+[Learn PyTorch in 5 Projects – Tutorial](https://youtu.be/E0bwEAWmVEM)
 
-## 🚀 Future Learning Path
+[Learn PyTorch for deep learning in a day. Literally.](https://youtu.be/Z_ikDlimN6A)
 
-### 1. Python Core Mastery
-* **Python Full Tutorials**
-    * **Channel:** [Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&si=DPE9iJKXBtSbUZTp)
-* **Python Course**
-    * **Channel:** [Code with Harry](https://youtu.be/UrsmFxEIp5k?si=u0ZVx3YvlCfmU4BE)
-* **Python for AI - Full Beginner Course**
-    * **Channel:** [Dave Ebbelaar](https://youtu.be/ygXn5nV5qFc?si=hzeFLwvws8clEAQS)
+[PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke](https://youtu.be/LyJtbe__2i0)
+[]()
+[]()
+[]()
 
-### 2. Backend & API Development
-* **Python API Development – Comprehensive Course for Beginners**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/0sOvCWFmrtA?si=EOO1OJM9KL3JG4Vq)
-    * **Focus:** FastAPI, CRUD operations, and backend fundamentals.
+## TensorFlow
 
-### 3. Data Science & Analytics
-* **Python for Data Analytics - Full Course for Beginners**
-    * **Channel:** [Luke Barousse](https://youtu.be/wUSDVGivd-8?si=lAgZ2NS7pRwRcZ3g)
-* **Pandas & Python for Data Analysis by Example**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/gtjxAH8uaP0?si=ThQRDUnceEogbuij)
-* **Data Analysis with Python Course - Numpy, Pandas, Data Visualization**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/GPVsHOlRBBI?si=AfFHuGKvLU169Uyr)
-* **Data Analyst Bootcamp for Beginners**
-    * **Channel:** [Alex The Analyst](https://youtu.be/PSNXoAs2FtQ?si=rHwK-HValLIFy4Bf)
-* **Learn Python for Data Science – Full Course for Beginners**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/CMEWVn1uZpQ?si=XPPRgpMl3Uba9UnU)
+[TensorFlow Crash Course for Beginners (2026) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
+[]()
+[]()
+[]()
 
-### 4. Python Automation
-* **Python Automation Tutorial – How to Automate Tasks**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/s8XjEuplx_U?si=_q87u89RtjUmqYOa)
-* **Automate with Python – Full Course for Beginners**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/PXMJ6FS7llk?si=t0ste2W-6eGZxqbs)
 
-### 5. Deep Learning (TensorFlow & Keras)
-* **TensorFlow 2.0 Complete Course – Python Neural Networks**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/tPYj3fFJGjk?si=jeLJamxTiuM3u1RX)
-* **Python TensorFlow for Machine Learning – Text Classification**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/VtRLrQ3Ev-U?si=aSDnVbYwmQjKZnB4)
-* **Keras with TensorFlow Course – Deep Learning and Neural Networks**
-    * **Channel:** [freeCodeCamp.org](https://youtu.be/qFJeN9V1ZsI?si=FACbsR-sX77J7HjD)
+## Scikit-learn
+[Scikit-learn Crash Course - Machine Learning Library for Python](https://youtu.be/0B5eIE_1vpU)
 
----
+[Scikit-Learn Full Crash Course - Python Machine Learning](https://youtu.be/SIEaLBXr0rk)
 
-> *"The best way to predict the future is to invent it."*
+## Keras
+
+[Keras Crash Course | Deep Learning, Image Modelling, RNNs and More](https://youtu.be/a8op1jBG7oM)
+[]()
+
+## Deep Learning Tutorials
+
+[Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)](https://youtu.be/Mubj_fqiAv8)
+
+## Kaggle ML
+[Kaggle's 30 Days of ML](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&si=TU6FUbx5Pa-2bFSM)
+
+## Web dev
+[Django Full Crash Course - The Professional Python Web Framework](https://youtu.be/u1GnZfDw5LU)
