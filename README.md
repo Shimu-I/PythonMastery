@@ -13,9 +13,10 @@ Learning through multiple books and YouTube resources to master Python from **ba
 1. [*Automate the Boring Stuff with Python* — Al Sweigart](https://automatetheboringstuff.com/)
 2. [*Python Full Course for Beginners (13 Hours) – From Zero to Hero* - Data with Bara](https://youtu.be/Rq5gJVxz55Q)
 3. [*Python Object Oriented Programming Full Course 🐍* - Bro Code](https://youtu.be/IbMDCwVm63M)
+4. [*Learn Pandas in 1 hour!* - Bro Code](https://youtu.be/VXtjG_GzO7Q)
 
 ### Future Pick
-4. [*Learn Pandas in 1 hour!* - Bro Code](https://youtu.be/VXtjG_GzO7Q)
+
 5. [*Learn NumPy in 1 hour! 🔢* - Bro Code](https://youtu.be/VXU4LSAQDSc)
 6. [*Learn Matplotlib in 1 hour! 📊* - Bro Code](https://youtu.be/c9vhHUGdav0)
 7. [*Seaborn Crash Course - Data Visualization in Python* - NeuralNine](https://youtu.be/rLVCSmtoA7U)
@@ -40,6 +41,9 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Learn Pandas in 1 hour! by Bro Code |
 | Day-22 -- 8 may, 2026 | Python PANDAS | 2h 56min  | 1h | Few | Better |
 | Day-23 -- 9 may, 2026 | Python PANDAS | 51min  | N/A | 2 Exercises | Better |
+| Learn NumPy in 1 hour! 🔢 by Bro Code |
+| Day-24 -- , 2026 | Python NUMPY |  |  | | |
+
 
 
 
