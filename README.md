@@ -12,6 +12,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 
 1. *Automate the Boring Stuff with Python* — Al Sweigart
 2. *Python Full Course for Beginners (13 Hours) – From Zero to Hero* - Data with Baraa
+3. *Python Object Oriented Programming Full Course 🐍* - Bro Code
 
  
 ## Study Record
@@ -26,8 +27,11 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Day-11 -- 12 Mar, 2026 | chapter - 3 (Loops) | 2h 15min | N/A | book exercises | good |
 | Day-12 -- 13 Mar, 2026 | chapter - 3 (Loops) | 1h 30min | N/A | book exercises + c-3 Practice questions 1 to 5 | good |
 | Day-13 -- 14 Mar, 2026 | chapter - 4 (Functions) & chapter 5 - (Debugging) | 6h 23min | N/A | book exercises + c-4 Practice questions 1 to 16 & c-5 Practice questions 1 to 13 | good |
-| Python Full Course for Beginners (13 Hours) – From Zero to Hero |
+| Python Full Course for Beginners (13 Hours) – From Zero to Hero by Data with Baraa |
 | Day-(14-18 ) -- (19 jan to 23 jan), 2026 | CHAPTER 1 to 8(full fundamental) | 29hours 51min | 13h 2min 53sec | completed the given Python challenges and followed along | Better |
+| Python Object Oriented Programming Full Course 🐍 by Bro Code |
+| Day-(19-22) -- (29 mar to 8 may) | Python OOP | 4h  | 2h 5min | N/A | good |
+
 
 
 
