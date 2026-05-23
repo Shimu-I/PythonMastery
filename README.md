@@ -42,7 +42,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Day-22 -- 8 may, 2026 | Python PANDAS | 2h 56min  | 1h | Few | Better |
 | Day-23 -- 9 may, 2026 | Python PANDAS | 51min  | N/A | 2 Exercises | Better |
 | Learn NumPy in 1 hour! 🔢 by Bro Code |
-| Day-24 -- , 2026 | Python NUMPY |  |  | | |
+| Day-24 -- 23 may, 2026 | Python NUMPY | 2h 30min | 1h | Few | Better |
 
 
 
