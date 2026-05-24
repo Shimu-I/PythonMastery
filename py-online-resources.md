@@ -1,5 +1,18 @@
 # 🐍 Python YT resources
 
+
+## Python Library
+[Learn Pandas in 1 hour!](https://youtu.be/VXtjG_GzO7Q)
+
+[Learn NumPy in 1 hour! 🔢](https://youtu.be/VXU4LSAQDSc)
+
+[Learn Matplotlib in 1 hour! 📊](https://youtu.be/c9vhHUGdav0)
+
+
+## Data Preprocessing
+
+
+
 ## Feature Engineering 
 
 [Feature Engineering Techniques For Machine Learning in Python](https://youtu.be/GduT2ZCc26E)
@@ -36,7 +49,8 @@
 ## Keras
 
 [Keras Crash Course | Deep Learning, Image Modelling, RNNs and More](https://youtu.be/a8op1jBG7oM)
-[]()
+
+[Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://youtu.be/qFJeN9V1ZsI)
 
 ## Deep Learning Tutorials
 
