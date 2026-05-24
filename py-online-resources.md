@@ -1,63 +1,94 @@
-# 🐍 Python YT resources
+# 🐍 Python YT resources (Organized Learning Path)
 
 
-## Python Library
-[Learn Pandas in 1 hour!](https://youtu.be/VXtjG_GzO7Q)
+---
+## 1️⃣ Data Handling & Data Engineering (The Foundation)
 
-[Learn NumPy in 1 hour! 🔢](https://youtu.be/VXU4LSAQDSc)
+### 🔹 **SQL**
 
-[Learn Matplotlib in 1 hour! 📊](https://youtu.be/c9vhHUGdav0)
+🔸🔸 [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://youtu.be/SSKVgrwhzus)
 
+### 🔹 **Python Library**
 
-## Data Preprocessing
+🔸🔸 [Learn Pandas in 1 hour!](https://youtu.be/VXtjG_GzO7Q)
 
+🔸🔸 [Learn NumPy in 1 hour! 🔢](https://youtu.be/VXU4LSAQDSc)
 
+🔸🔸 [Learn Matplotlib in 1 hour! 📊](https://youtu.be/c9vhHUGdav0)
 
-## Feature Engineering 
+---
+## 2️⃣ Exploratory Data Analysis (EDA) & Data Cleaning
 
-[Feature Engineering Techniques For Machine Learning in Python](https://youtu.be/GduT2ZCc26E)
+### 🔹 **Exploratory Data Analysis (EDA)**
 
-[What is Feature Engineering | Day 23 | 100 Days of Machine Learning](https://youtu.be/sluoVhT0ehg)
-[]()
-[]()
-[]()
-
-## PyTorch
-
-[Learn PyTorch in 5 Projects – Tutorial](https://youtu.be/E0bwEAWmVEM)
-
-[Learn PyTorch for deep learning in a day. Literally.](https://youtu.be/Z_ikDlimN6A) ⭐
-
-[PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke](https://youtu.be/LyJtbe__2i0) ⭐
-[]()
-[]()
-[]()
-
-## TensorFlow
-
-[TensorFlow Crash Course for Beginners (2026) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
-[]()
-[]()
-[]()
+### 🔹 **Data Cleaning**
 
 
-## Scikit-learn
-[Scikit-learn Crash Course - Machine Learning Library for Python](https://youtu.be/0B5eIE_1vpU)
+---
 
-[Scikit-Learn Full Crash Course - Python Machine Learning](https://youtu.be/SIEaLBXr0rk) ⭐
+## 3️⃣ Data Preprocessing & Feature Engineering
 
-## Keras
+### 🔹 **Data Preprocessing & Data Transformation**
 
-[Keras Crash Course | Deep Learning, Image Modelling, RNNs and More](https://youtu.be/a8op1jBG7oM)
+### 🔹 **Feature Engineering**
 
-[Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://youtu.be/qFJeN9V1ZsI)
+🔸🔸 [What is Feature Engineering | Day 23 | 100 Days of Machine Learning](https://youtu.be/sluoVhT0ehg)
 
-## Deep Learning Tutorials
+🔸🔸 [Feature Engineering Techniques For Machine Learning in Python](https://youtu.be/GduT2ZCc26E)
 
-[Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)](https://youtu.be/Mubj_fqiAv8)
+---
 
-## Kaggle ML
-[Kaggle's 30 Days of ML](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&si=TU6FUbx5Pa-2bFSM) ⭐
+## 4️⃣ Machine Learning (Tabular Data & Core Concepts)
 
-## Web dev
-[Django Full Crash Course - The Professional Python Web Framework](https://youtu.be/u1GnZfDw5LU)
+### 🔹 **Scikit-learn**
+
+🔸🔸 [Scikit-Learn Full Crash Course - Python Machine Learning](https://youtu.be/SIEaLBXr0rk) ⭐
+
+🔸🔸 [Scikit-learn Crash Course - Machine Learning Library for Python](https://youtu.be/0B5eIE_1vpU)
+
+### 🔹 **Kaggle ML**
+
+🔸🔸 [Kaggle's 30 Days of ML](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&si=TU6FUbx5Pa-2bFSM) ⭐
+
+---
+
+## 5️⃣ Deep Learning (Neural Networks)
+
+### 🔹 **Deep Learning Tutorials**
+
+🔸🔸 [Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)](https://youtu.be/Mubj_fqiAv8)
+
+### 🔹 **Option A: PyTorch (Recommended)**
+
+🔸🔸 [PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke](https://youtu.be/LyJtbe__2i0) ⭐
+
+🔸🔸 [Learn PyTorch for deep learning in a day. Literally.](https://youtu.be/Z_ikDlimN6A) ⭐
+
+🔸🔸 [Learn PyTorch in 5 Projects – Tutorial](https://youtu.be/E0bwEAWmVEM)
+
+
+### 🔹 **Option B: TensorFlow & Keras**
+
+🔸🔸 [TensorFlow Crash Course for Beginners (2026) | Daniel Bourke](https://youtu.be/gWvwu7qLjJs)
+
+🔸🔸 [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://youtu.be/qFJeN9V1ZsI)
+
+🔸🔸 [Keras Crash Course | Deep Learning, Image Modelling, RNNs and More](https://youtu.be/a8op1jBG7oM)
+
+
+
+---
+
+## 6️⃣ Model Deployment (Web Dev)
+
+### 🔹 **Web dev**
+
+🔸🔸 [Django Full Crash Course - The Professional Python Web Framework](https://youtu.be/u1GnZfDw5LU)
+
+
+
+---
+---
+0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 
+🔹🔸 
+➜

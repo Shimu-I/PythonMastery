@@ -635,3 +635,16 @@ Monitoring
 ```
 
 That workflow matters more than memorizing algorithms.
+
+
+## For YOUTUBE 
+
+1. Git
+2. Linux & Terminal Basics
+3. SQL
+4. Data Handling & Data Engineering
+5. Data Cleaning
+6. Data Transformation
+7. Exploratory Data Analysis (EDA)
+8. Data Preprocessing
+9. Feature Engineering

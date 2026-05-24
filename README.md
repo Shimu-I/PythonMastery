@@ -20,6 +20,13 @@ Learning through multiple books and YouTube resources to master Python from **ba
 
 ### Future Pick
 
+3. SQL
+4. Data Handling & Data Engineering
+5. Data Cleaning
+6. Data Transformation
+7. Exploratory Data Analysis (EDA)
+8. Data Preprocessing
+9. Feature Engineering
 
 
 
@@ -47,6 +54,8 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Day-24 -- 23 may, 2026 | Python NUMPY | 2h 30min | 1h | Few | Better |
 | 0️⃣6️⃣ Learn Matplotlib in 1 hour! 📊 by Bro Code|
 | Day-25 -- 24 may, 2026 | Python Matplotlib| 2h | 1h | N/A | Better |
+| 0️⃣7️⃣ Seaborn Crash Course - Data Visualization in Python by NeuralNine|
+| Day-26 --  may, 2026 | Python Seaborn|  |  |  |  |
 
 
 
