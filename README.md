@@ -16,7 +16,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 4. [*Learn Pandas in 1 hour!* - Bro Code](https://youtu.be/VXtjG_GzO7Q)
 5. [*Learn NumPy in 1 hour! 🔢* - Bro Code](https://youtu.be/VXU4LSAQDSc)
 6. [*Learn Matplotlib in 1 hour! 📊* - Bro Code](https://youtu.be/c9vhHUGdav0)
-7. [*Seaborn Crash Course - Data Visualization in Python* - NeuralNine](https://youtu.be/rLVCSmtoA7U)
+7. [*Seaborn Beginner to Pro | Seaborn Tutorial for Beginners | Seaborn Playlist* - Learnerea](https://youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2&si=eCgVyUCshScuQ-l9)
 
 ### Future Pick
 
@@ -54,7 +54,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | Day-24 -- 23 may, 2026 | Python NUMPY | 2h 30min | 1h | Few | Better |
 | 0️⃣6️⃣ Learn Matplotlib in 1 hour! 📊 by Bro Code|
 | Day-25 -- 24 may, 2026 | Python Matplotlib| 2h | 1h | N/A | Better |
-| 0️⃣7️⃣ Seaborn Crash Course - Data Visualization in Python by NeuralNine|
+| 0️⃣7️⃣ Seaborn Beginner to Pro | Seaborn Tutorial for Beginners | Seaborn Playlist by Learnerea|
 | Day-26 --  may, 2026 | Python Seaborn|  |  |  |  |
 
 

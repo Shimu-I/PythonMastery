@@ -16,11 +16,14 @@
 
 🔸🔸 [Learn Matplotlib in 1 hour! 📊](https://youtu.be/c9vhHUGdav0)
 
+🔸🔸 [Seaborn Beginner to Pro | Seaborn Tutorial for Beginners | Seaborn Playlist](https://youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2&si=eCgVyUCshScuQ-l9) ⭐
+
 ---
 ## 2️⃣ Exploratory Data Analysis (EDA) & Data Cleaning
 
 ### 🔹 **Exploratory Data Analysis (EDA)**
 
+🔸🔸 [EDA - Exploratory Data Analysis](https://youtube.com/playlist?list=PL4GjoPPG4VqO6eg4mUeBDn7k21RLfti8-&si=RT3fnOQsRFfwza0z)
 ### 🔹 **Data Cleaning**
 
 
@@ -36,6 +39,10 @@
 
 🔸🔸 [Feature Engineering Techniques For Machine Learning in Python](https://youtu.be/GduT2ZCc26E)
 
+
+
+### 🔹 **Feature Selection**
+🔸🔸 [Feature Selection](https://youtube.com/playlist?list=PL4GjoPPG4VqNia7asx4-nuLZ31M-JPu94&si=HmwpBvuhg85Xi8dq)
 ---
 
 ## 4️⃣ Machine Learning (Tabular Data & Core Concepts)
@@ -92,3 +99,4 @@
 0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 
 🔹🔸 
 ➜
+🔸🔸 []()
