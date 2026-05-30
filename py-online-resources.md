@@ -19,6 +19,9 @@
 🔸🔸 [Seaborn Beginner to Pro | Seaborn Tutorial for Beginners | Seaborn Playlist](https://youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2&si=eCgVyUCshScuQ-l9) ⭐
 
 ---
+
+
+
 ## 2️⃣ Exploratory Data Analysis (EDA) & Data Cleaning
 
 ### 🔹 **Exploratory Data Analysis (EDA)**
@@ -28,6 +31,9 @@
 
 
 ---
+
+
+
 
 ## 3️⃣ Data Preprocessing & Feature Engineering
 
@@ -45,7 +51,11 @@
 🔸🔸 [Feature Selection](https://youtube.com/playlist?list=PL4GjoPPG4VqNia7asx4-nuLZ31M-JPu94&si=HmwpBvuhg85Xi8dq)
 ---
 
-## 4️⃣ Machine Learning (Tabular Data & Core Concepts)
+### 4️⃣ Machine Learning (Tabular Data & Core Concepts)
+
+🔸🔸 [Machine Learning Tutorial Python | Machine Learning For Beginners](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&si=92BRcIsfvMIKZM0c)
+
+### 🔹 Machine Learning Fundamentals
 
 ### 🔹 **Scikit-learn**
 
@@ -58,6 +68,8 @@
 🔸🔸 [Kaggle's 30 Days of ML](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N&si=TU6FUbx5Pa-2bFSM) ⭐
 
 ---
+
+
 
 ## 5️⃣ Deep Learning (Neural Networks)
 
@@ -82,6 +94,8 @@
 
 🔸🔸 [Keras Crash Course | Deep Learning, Image Modelling, RNNs and More](https://youtu.be/a8op1jBG7oM)
 
+🔸🔸 [Deep Learning With Tensorflow 2.0, Keras and Python](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=OD7rflUo9T1yMriN)
+
 
 
 ---
@@ -94,9 +108,14 @@
 
 
 
+
+
 ---
 ---
 0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 
 🔹🔸 
 ➜
 🔸🔸 []()
+
+
+
