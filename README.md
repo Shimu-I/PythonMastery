@@ -55,7 +55,7 @@ Learning through multiple books and YouTube resources to master Python from **ba
 | 0️⃣6️⃣ Learn Matplotlib in 1 hour! 📊 by Bro Code|
 | Day-25 -- 24 may, 2026 | Python Matplotlib| 2h | 1h | N/A | Better |
 | 0️⃣7️⃣ Seaborn Beginner to Pro | Seaborn Tutorial for Beginners | Seaborn Playlist by Learnerea|
-| Day-26 --  may, 2026 | Python Seaborn|  |  |  |  |
+| Day-(26-29) --  (28,31 may to 1,3 june), 2026 | Python Seaborn| 10h 54min | 4h 39min | Yes | Good |
 
 
 
